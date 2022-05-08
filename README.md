@@ -1,4 +1,4 @@
 ### Welcome to my Masters Projects 👋
 
 
-<img align="center" alt="GIF" height="350"  width="500" src="https://www.gic.com.sg/wp-content/uploads/2021/07/digitaltransformation-1920x1080-1.gif" />
+<img align="center" alt="GIF" height="550"  width="600" src="https://miro.medium.com/max/1400/0*GfVxljF8QM8n8dYn.gif" />
