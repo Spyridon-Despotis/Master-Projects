@@ -1,4 +1,4 @@
 ### Welcome to my Masters Projects 👋
 
 
-<img align="center" alt="GIF" height="550"  width="600" src="https://miro.medium.com/max/1400/0*GfVxljF8QM8n8dYn.gif" />
+<img align="center" alt="GIF" height="550"  width="600" src="https://cdn.dribbble.com/users/737003/screenshots/2587423/moonwalk.gif" />
