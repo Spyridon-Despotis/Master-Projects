@@ -1,0 +1,19 @@
+
+###############################STEP 1 - MANIPULATING DATA BEFORE PYTHON###########################
+
+
+cat "authors.csv" | grep ",CIKM,\|,KDD,\|,ICWSM,\|,WWW,\|,IEEE BigData," > myfile.csv
+cat myfile.csv | awk '{if($1 >= 2016) print $0}' > authors.csv
+cat authors.csv| awk '{if($1 >= 2016 && $1 < 2017) print $0}' > authors_2016.csv
+cat authors.csv| awk '{if($1 >= 2017 && $1 < 2018) print $0}' > authors_2017.csv
+cat authors.csv| awk '{if($1 >= 2018 && $1 < 2019) print $0}' > authors_2018.csv
+cat authors.csv| awk '{if($1 >= 2019 && $1 < 2020) print $0}' > authors_2019.csv
+cat authors.csv| awk '{if($1 >= 2020 && $1 < 2021) print $0}' > authors_2020.csv
+
+
+####################################THE END ######################################################
+
+
+
+
+
